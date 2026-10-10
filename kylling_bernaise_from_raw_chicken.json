@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "minecraft:chicken"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "danskdelight:bernaise"
+    }
+  ],
+  "result": {
+    "item": "danskdelight:kylling_bernaise"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "experience": 2.0,
+  "cookingtime": 200
+}

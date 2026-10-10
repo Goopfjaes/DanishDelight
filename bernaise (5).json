@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "minecraft:fern"
+    }
+  ],
+  "result": {
+    "item": "danskdelight:bernaise"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

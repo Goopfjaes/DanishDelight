@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "misc",
+  "ingredients": [
+    {
+      "item": "danskdelight:kulor"
+    },
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    }
+  ],
+  "result": {
+    "item": "danskdelight:brun_sovs"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

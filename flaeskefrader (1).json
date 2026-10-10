@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "danskdelight:flaeskesteg"
+    },
+    {
+      "item": "danskdelight:brun_sovs"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "farmersdelight:cabbage_leaf"
+    }
+  ],
+  "result": {
+    "item": "danskdelight:flaeskefrader"
+  },
+  "experience": 2.0,
+  "cookingtime": 200
+}
